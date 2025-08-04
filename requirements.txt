@@ -1,0 +1,13 @@
+jupyter
+scikit-learn
+scipy
+statsmodels
+pandas
+polars
+numpy
+haystack-ai
+ragas-haystack
+openai
+bert_score
+sacrebleu 
+rouge_score

@@ -1,0 +1,4 @@
+# You will need a .env file with the following variables
+# ensure the .gitignore excludes .env files
+
+OPENAI_API_KEY=<your key here>
