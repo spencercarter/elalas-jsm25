@@ -11,3 +11,7 @@ openai
 bert_score
 sacrebleu 
 rouge_score
+nltk
+ragas
+PyPDF2
+pydantic
